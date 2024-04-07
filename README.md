@@ -2,7 +2,7 @@
 # Credit Score Classification
 
 ## Overview
-This project involves data cleaning, preprocessing, exploratory data analysis (EDA), and feature engineering using R programming languages. The goal is to classifycredit score.
+This project involves data cleaning, preprocessing, exploratory data analysis (EDA), and feature engineering using R programming languages. The goal is to classify credit score.
 
 ## Files
 - `data/raw/`: The original dataset used in the project.
@@ -31,6 +31,7 @@ This project involves data cleaning, preprocessing, exploratory data analysis (E
 5. Encoding categorical variables using factor() and as.factor().
 6. Exporting the cleaned and processed data to a CSV file.
 
+#### jupyter nbconvert --to script *.ipynb 
 
 
 ## Contributors
