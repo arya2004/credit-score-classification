@@ -87,7 +87,7 @@ Please read the `CONTRIBUTING.md` file for guidelines on contributing to this pr
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+This project is licensed under the CC0-1.0 license - see the `LICENSE.md` file for details.
 
 ## Acknowledgements
 
